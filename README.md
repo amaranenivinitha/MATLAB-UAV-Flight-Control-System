@@ -359,8 +359,8 @@ The repository includes real-time simulation videos that provide a visual demons
 
 | Video | Description |
 |--------|-------------|
-| **![Project Demo Video](results/AircraftViewer.mp4)** | Three-dimensional visualization of the UAV during nonlinear closed-loop flight simulation. |
-| **![Project Demo Video](results/DataViewer.mp4)** | Real-time aircraft states, control inputs, and controller responses throughout the simulation. |
+| **![AircraftViewer.mp4](results/AircraftViewer.mp4)** | Three-dimensional visualization of the UAV during nonlinear closed-loop flight simulation. |
+| **![DataViewer.mp4](results/DataViewer.mp4)** | Real-time aircraft states, control inputs, and controller responses throughout the simulation. |
 
 These demonstrations complement the simulation plots by illustrating the aircraft's dynamic behaviour and validating the overall performance of the hierarchical autopilot.
 
