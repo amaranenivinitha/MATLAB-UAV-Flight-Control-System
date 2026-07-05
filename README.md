@@ -3,7 +3,7 @@
 *A MATLAB-based nonlinear flight dynamics and hierarchical PID autopilot framework for fixed-wing UAV simulation and control, developed during a DRDO internship.*
 
 <p align="center">
- <img src="images/UAV.png" width="900">
+ <img src="images/Aerosonde_UAV.png" width="900">
 </p>
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
