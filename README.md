@@ -8,6 +8,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2024a-orange?style=for-the-badge)
+![6-DOF](https://img.shields.io/badge/6--DOF-Aircraft_Model-purple?style=for-the-badge)
 ![Flight_Control](https://img.shields.io/badge/Flight-Control-blue?style=for-the-badge)
 ![DRDO_Internship](https://img.shields.io/badge/DRDO-Internship-red?style=for-the-badge)
 
