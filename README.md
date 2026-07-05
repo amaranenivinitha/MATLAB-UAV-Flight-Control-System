@@ -6,13 +6,11 @@
  <img src="images/UAV.png" width="900">
 </p>
 
-<p align="center">
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2024a-orange?style=for-the-badge)
-![Flight Control](https://img.shields.io/badge/Flight-Control-blue?style=for-the-badge)
-![DRDO Internship](https://img.shields.io/badge/DRDO-Internship-darkblue?style=for-the-badge)
+![Flight_Control](https://img.shields.io/badge/Flight-Control-blue?style=for-the-badge)
+![DRDO_Internship](https://img.shields.io/badge/DRDO-Internship-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
-</p>
 
 <p align="center">
 <strong>DRDO Internship Project</strong><br>
@@ -157,31 +155,6 @@ The project follows the standard workflow adopted in fixed-wing aircraft flight 
 <p align="center">
  <img src="images/Methodology_Flowchart.png" width="900">
 </p>
-
-```text
-Aircraft Mathematical Model
-           │
-           ▼
-Nonlinear Flight Dynamics
-           │
-           ▼
-     Trim Analysis
-           │
-           ▼
-Aircraft Linearization
-           │
-           ▼
-Transfer Function Development
-           │
-           ▼
-Hierarchical PID Design
-           │
-           ▼
-Closed-Loop Simulation
-           │
-           ▼
-Performance Evaluation
-```
 
 Each stage builds upon the previous one, resulting in a complete simulation framework capable of modelling, controlling, and validating a fixed-wing UAV.
 
@@ -386,8 +359,8 @@ The repository includes real-time simulation videos that provide a visual demons
 
 | Video | Description |
 |--------|-------------|
-| **AircraftViewer.mp4** | Three-dimensional visualization of the UAV during nonlinear closed-loop flight simulation. |
-| **DataViewer.mp4** | Real-time aircraft states, control inputs, and controller responses throughout the simulation. |
+| **![Project Demo Video](results/AircraftViewer.mp4)** | Three-dimensional visualization of the UAV during nonlinear closed-loop flight simulation. |
+| **![Project Demo Video](results/DataViewer.mp4)** | Real-time aircraft states, control inputs, and controller responses throughout the simulation. |
 
 These demonstrations complement the simulation plots by illustrating the aircraft's dynamic behaviour and validating the overall performance of the hierarchical autopilot.
 
@@ -540,7 +513,7 @@ The modular architecture of this project enables several future extensions.
 
 A detailed internship report is available in:
 
-📄 **report/Final_Report.pdf**
+📄 **[Report](report/Final_Report.pdf)**
 
 The report includes:
 
