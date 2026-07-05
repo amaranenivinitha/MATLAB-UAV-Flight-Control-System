@@ -10,7 +10,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2024a-orange?style=for-the-badge)
 ![Flight_Control](https://img.shields.io/badge/Flight-Control-blue?style=for-the-badge)
 ![DRDO_Internship](https://img.shields.io/badge/DRDO-Internship-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 <p align="center">
 <strong>DRDO Internship Project</strong><br>
