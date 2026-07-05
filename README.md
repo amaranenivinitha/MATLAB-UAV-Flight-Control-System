@@ -561,5 +561,13 @@ I also extend my gratitude to the Department of Aeronautical Engineering, Hindus
 
 ---
 
-### **Model • Simulate • Control • Validate**
+# 📄 License 
+
+This repository is intended for **academic, educational, and research purposes**. 
+
+If you use this work in your own research or learning, please provide appropriate attribution. 
+
+---
+
+## **Model • Simulate • Control • Validate**
 
